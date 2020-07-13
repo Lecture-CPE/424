@@ -17,7 +17,7 @@ This course is primarily designed for undergraduate students. Students become fa
 
 | Lect# | Date | Description  |Slide| Assignment Due Date |
 |:-----:|------|-------------|----|---------------------|
-| 1| Tue 14-July-2020 <br> 9:00-12:00| **Course orientation:** <br> - Course description<br> - Introduction <br> - Software preparation  |- Course description](https://github.com/Lecture-CPE/424/blob/master/31110424-description.pdf) <br> - [Introduction](https://github.com/Lecture-CPE/424/blob/master/w1/w1-501-1.Course%20Description-WD.pdf)| |
+| 1| Tue 14-July-2020 <br> 9:00-12:00| **Course orientation:** <br> - Course description<br> - Introduction <br> - Software preparation  |- [Course description](https://github.com/Lecture-CPE/424/blob/master/31110424-description.pdf) <br> - [Introduction](https://github.com/Lecture-CPE/424/blob/master/w1/w1-501-1.Course%20Description-WD.pdf)| |
 | 2| -2020 | Vulnerability and Exploit || |
 | 6| Aug-2020 | <s>Midterm Exam</s> || Close book |
 | 15 | Nov-2020 | Final Exam  || Close book |
