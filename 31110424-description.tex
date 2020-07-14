@@ -1,0 +1,170 @@
+\documentclass[11pt, a4paper]{article}
+%\usepackage{geometry}
+\usepackage[inner=1.5cm,outer=1.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+\pagestyle{empty}
+\usepackage{graphicx}
+\usepackage{fancyhdr, lastpage, bbding, pmboxdraw}
+\usepackage[usenames,dvipsnames]{color}
+\definecolor{darkblue}{rgb}{0,0,.6}
+\definecolor{darkred}{rgb}{.7,0,0}
+\definecolor{darkgreen}{rgb}{0,.6,0}
+\definecolor{red}{rgb}{.98,0,0}
+\usepackage[colorlinks,pagebackref,pdfusetitle,urlcolor=darkblue,citecolor=darkblue,linkcolor=darkred,bookmarksnumbered,plainpages=false]{hyperref}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\usepackage{enumerate}
+\usepackage{cancel}
+\pagestyle{fancyplain}
+\fancyhf{}
+\lhead{ \fancyplain{}{31110425 Cryptography} }
+%\chead{ \fancyplain{}{} }
+\rhead{ \fancyplain{}{\today} }
+%\rfoot{\fancyplain{}{page \thepage\ of \pageref{LastPage}}}
+\fancyfoot[RO, LE] {page \thepage\ of \pageref{LastPage} }
+\thispagestyle{plain}
+
+%%%%%%%%%%%% LISTING %%%
+\usepackage{listings}
+\usepackage{caption}
+\DeclareCaptionFont{white}{\color{white}}
+\DeclareCaptionFormat{listing}{\colorbox{gray}{\parbox{\textwidth}{#1#2#3}}}
+\captionsetup[lstlisting]{format=listing,labelfont=white,textfont=white}
+\usepackage{verbatim} % used to display code
+\usepackage{fancyvrb}
+\usepackage{acronym}
+\usepackage{amsthm}
+\VerbatimFootnotes % Required, otherwise verbatim does not work in footnotes!
+
+\definecolor{OliveGreen}{cmyk}{0.64,0,0.95,0.40}
+\definecolor{CadetBlue}{cmyk}{0.62,0.57,0.23,0}
+\definecolor{lightlightgray}{gray}{0.93}
+
+
+
+\lstset{
+%language=bash,                          % Code langugage
+basicstyle=\ttfamily,                   % Code font, Examples: \footnotesize, \ttfamily
+keywordstyle=\color{OliveGreen},        % Keywords font ('*' = uppercase)
+commentstyle=\color{gray},              % Comments font
+numbers=left,                           % Line nums position
+numberstyle=\tiny,                      % Line-numbers fonts
+stepnumber=1,                           % Step between two line-numbers
+numbersep=5pt,                          % How far are line-numbers from code
+backgroundcolor=\color{lightlightgray}, % Choose background color
+frame=none,                             % A frame around the code
+tabsize=2,                              % Default tab size
+captionpos=t,                           % Caption-position = bottom
+breaklines=true,                        % Automatic line breaking?
+breakatwhitespace=false,                % Automatic breaks only at whitespace?
+showspaces=false,                       % Dont make spaces visible
+showtabs=false,                         % Dont make tabls visible
+columns=flexible,                       % Column format
+morekeywords={__global__, __device__},  % CUDA specific keywords
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\begin{center}
+{\Large \textsc{Computer Security}}
+\end{center}
+\begin{center}
+1 July 2020
+\end{center}
+%\date{September 26, 2014}
+
+\begin{center}
+\rule{6in}{0.4pt}
+\begin{minipage}[t]{.75\textwidth}
+\begin{tabular}{llcccll}
+\textbf{Instructor:} & Songrit Kitisriworapan & & &  & \textbf{Time:} & Tue 9:00 -- 12:00 \\
+\textbf{Email:} &  \href{mailto:songrit@npu.ac.th}{songrit@npu.ac.th} & & & & \textbf{Place:} & EN1303 (Network Lab)
+\end{tabular}
+\end{minipage}
+\rule{6in}{0.4pt}
+\end{center}
+\vspace{.5cm}
+\setlength{\unitlength}{1in}
+\renewcommand{\arraystretch}{2}
+
+\noindent\textbf{Course Pages:} \begin{enumerate}
+\item \url{https://github.com/Lecture-CPE/424}
+\item \url{https://git.npu.world/Lecture-CPE/424}
+\end{enumerate}
+
+\vskip.15in
+\noindent\textbf{Office Hours:} After class, or by appointment, or E-mail.
+
+\vskip.15in
+\noindent\textbf{Main References:}(recommended, not required) %\footnotemark
+
+\begin{itemize}
+\item Wenliang Du, "Computer Security: A Hands-on Approach"
+2nd Edition, (ISBN: 978-1733003902)
+\end{itemize} 
+
+% \footnotetext{Downloadable ebook versions are available on AeLP.}
+
+\vskip.15in
+\noindent\textbf{Objectives:}  This course is primarily designed for undergraduate students. Students become familiar with cyber security, computer vulnerability and exploit. 
+
+\vskip.15in
+\noindent\textbf{Prerequisites:} None
+
+\vspace*{.15in}
+
+\vspace*{.15in}
+\noindent\textbf{Grading Policy:} Attend (30\%),  Assignment (20\%), Midterm (20\%), Final (30\%), 
+\vskip.15in
+\noindent\textbf{Important Dates:}
+\begin{center} \begin{minipage}{3.8in}
+\begin{flushleft}
+Midterm          \dotfill 24-30 Aug, 2020  \\
+\end{flushleft}
+\end{minipage}
+\end{center}
+
+\vskip.15in
+\noindent\textbf{Course Policy:}  
+\begin{itemize}
+\item Grading A, B+, B, C+, C, D+, D, F($<$ 50\%)
+\end{itemize}
+
+\vskip.15in
+\noindent\textbf{Class Policy:}  
+\begin{itemize}
+\item Regular attendance is essential and expected.
+\end{itemize}
+\vskip.15in
+\noindent\textbf{Academic Honesty:} Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation.
+
+
+\clearpage
+\noindent \textbf{Tentative Course Outline:}
+\begin{center}
+\begin{table}[h]
+\scalebox{0.9}{
+\centering
+\begin{tabular}{|c|l|}
+\hline
+\textbf{Week} & \textbf{Description}                                                                                                                \\ \hline
+1             & \begin{tabular}[c]{@{}l@{}}Course orientation\\ Introduction \end{tabular} \\ \hline
+2             & Vulnerability and Exploit \\ \hline
+3             & Binary and execution file\\ \hline
+4             & Layer 2 attack \\ \hline
+5             & Layer 3 attack\\ \hline
+6             & Remote code execution \\ \hline
+7              & \textbf{Midterm Exam}\\ \hline
+8             & Site visited\\ \hline
+9             & Phishing and Pharming attack\\ \hline
+10			  & XSS (Cross Site scripting) \\ \hline
+11             & Cookies attack \\ \hline
+12             & Cryptographic issues\\ \hline              
+13             & SQL injection  \\ \hline              
+14             & Reverse shell\\ \hline
+15            & Preparing for CTF\\ \hline
+16             & \textbf{Final Exam}                                                                                                                          \\ \hline
+\end{tabular} }
+
+\end{table}
+\end{center}
+%%%%%% THE END 
+\end{document} 
