@@ -7,6 +7,7 @@ This course is primarily designed for undergraduate students. Students become fa
 
 ## Course Infrastructure
 * ssh.npu.world
+* elab.npu.world
 
 ## Tools
 * [Chrome](https://www.google.com/chrome/)
