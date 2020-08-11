@@ -21,6 +21,7 @@ This course is primarily designed for undergraduate students. Students become fa
 | 1| Tue 14-July-2020 <br> 9-12am| **Course orientation:** <br> - Course description<br> - Introduction <br> - Software preparation  |- [Course description](https://github.com/Lecture-CPE/424/blob/master/31110424-description.pdf) <br> - [Introduction](https://github.com/Lecture-CPE/424/blob/master/w1/w1-501-1.Course%20Description-WD.pdf)| |
 | 2| Tue 21-July-2020  <br> 9-12am | Basic Linux  | - [Linux Command](https://github.com/Lecture-CPE/424/raw/master/w2/w1-501-0.1.Linux.pdf)| |
 | 3| Tue 4-Aug-2020  <br> 9-12am | Vulnerability and Exploit  | - [Course software services](https://github.com/Lecture-CPE/424/raw/master/w3/w3-Course%20facility.pdf) <br>- [Terminology](https://github.com/Lecture-CPE/424/raw/master/w3/w3.1-Terminology.pdf) <br> - [Vulnerability and Exploit](https://github.com/Lecture-CPE/424/raw/master/w3/w3.2-Vulnerability.pdf) <br> - [Attack](https://github.com/Lecture-CPE/424/raw/master/w3/w3.3-Attack) <br> - [Motivation](https://github.com/Lecture-CPE/424/raw/master/w3/w3.4-Motivation.pdf) <br> - [Buffer overflow](https://github.com/Lecture-CPE/424/raw/master/w3/w3.5-Intro%20buffer%20overflow.pdf)| |
+| 4| Tue 11-Aug-2020  <br> 9-12am | Buffer Overflow(1/2)  | - [Motivation](https://github.com/Lecture-CPE/424/raw/master/w4/w3.4-Motivation.pdf) <br> - [Buffer overflow](https://github.com/Lecture-CPE/424/raw/master/w4/w3.5-Intro%20buffer%20overflow.pdf)| |
 | 6| Aug-2020 | <s>Midterm Exam</s> || Close book |
 | 15 | Nov-2020 | Final Exam  || Close book |
 
