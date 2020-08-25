@@ -23,7 +23,7 @@ This course is primarily designed for undergraduate students. Students become fa
 | 3| Tue 4-Aug-2020  <br> 9-12am | Vulnerability and Exploit  | - [Course software services](https://github.com/Lecture-CPE/424/raw/master/w3/w3-Course%20facility.pdf) <br>- [Terminology](https://github.com/Lecture-CPE/424/raw/master/w3/w3.1-Terminology.pdf) <br> - [Vulnerability and Exploit](https://github.com/Lecture-CPE/424/raw/master/w3/w3.2-Vulnerability.pdf) <br> - [Attack](https://github.com/Lecture-CPE/424/raw/master/w3/w3.3-Attack)| |
 | 4| Tue 11-Aug-2020  <br> 9-12am | Buffer Overflow(1/2)  | - [Motivation](https://github.com/Lecture-CPE/424/raw/master/w4/w3.4-Motivation.pdf) <br> - [Buffer overflow](https://github.com/Lecture-CPE/424/raw/master/w4/w3.5-Intro%20buffer%20overflow.pdf)| |
 | 5| Tue 18-Aug-2020  <br> 9-12am | **Midterm Online** |  | - [https://ctf2020.npu.world](https://ctf2020.npu.world)  |
-| 6| Tue 25-Aug-2020  <br> 9-12am | สรุปงาน NPU CTF2020 และ Writeup |[สรุปการแข่ง](https://github.com/Lecture-CPE/424/raw/master/w5/CTF-midterm-summary.pdf)  | - [คลิปสรุป](https://www.youtube.com/watch?v=c2ZOo8ev9S0)  |
+| 6| Tue 25-Aug-2020  <br> 9-12am | สรุปงาน NPU CTF2020 และ Writeup |[สรุปการแข่ง](https://github.com/Lecture-CPE/424/raw/master/w5/CTF-midterm-summary.pdf)  | - [Writeup CTF2020](https://www.youtube.com/watch?v=c2ZOo8ev9S0)  |
 | 6| Aug-2020 | <s>Midterm Exam</s> || Close book |
 | 15 | Nov-2020 | Final Exam  || Close book |
 
