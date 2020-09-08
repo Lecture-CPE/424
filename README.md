@@ -24,7 +24,7 @@ This course is primarily designed for undergraduate students. Students become fa
 | 4| Tue 11-Aug-2020  <br> 9-12am | Buffer Overflow(1/2)  | - [Motivation](https://github.com/Lecture-CPE/424/raw/master/w4/w3.4-Motivation.pdf) <br> - [Buffer overflow](https://github.com/Lecture-CPE/424/raw/master/w4/w3.5-Intro%20buffer%20overflow.pdf)| |
 | 5| Tue 18-Aug-2020  <br> 9-12am | **Midterm Online** |  | - [https://ctf2020.npu.world](https://ctf2020.npu.world)  |
 | 6| Tue 25-Aug-2020  <br> 9-12am | สรุปงาน NPU CTF2020 และ Writeup |[สรุปการแข่ง](https://github.com/Lecture-CPE/424/raw/master/w5/CTF-midterm-summary.pdf)  | - [Writeup CTF2020](https://www.youtube.com/watch?v=c2ZOo8ev9S0)  |
-| 9| Tue 8-Sep-2020  <br> 9-12am | OWASP and SQL injection |[SQL injection](https://github.com/Lecture-CPE/424/raw/master/w9/w9_OWASP.pdf)  | - [Setup OpenVPN for Android](https://www.youtube.com/watch?v=6tMl_cXPcvc) <br> - [SQL injection]() |
+| 9| Tue 8-Sep-2020  <br> 9-12am | OWASP and SQL injection |[SQL injection](https://github.com/Lecture-CPE/424/raw/master/w9/w9_OWASP.pdf)  | - [Setup OpenVPN for Android](https://www.youtube.com/watch?v=6tMl_cXPcvc) <br> - [SQL injection](https://www.youtube.com/watch?v=PEmvqigfDjw) <br> - [Juice Shop : Score board]() |
 | 15 | Nov-2020 | Final Exam  || Close book |
 
 # Upgrade policy
@@ -34,9 +34,6 @@ This course is primarily designed for undergraduate students. Students become fa
 # Competition 
 
 * Comming soon
-
-* [https://cyber.npu.world](https://cyber.npu.world/index.php?page=countdown)
-* [https://npu-juice.herokuapp.com](https://npu-juice.herokuapp.com)
 
 ## Resources
 
