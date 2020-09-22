@@ -26,7 +26,8 @@ This course is primarily designed for undergraduate students. Students become fa
 | 6| Tue 25-Aug-2020  <br> 9-12am | สรุปงาน NPU CTF2020 และ Writeup |[สรุปการแข่ง](https://github.com/Lecture-CPE/424/raw/master/w5/CTF-midterm-summary.pdf)  | - [Writeup CTF2020](https://www.youtube.com/watch?v=c2ZOo8ev9S0)  |
 | 9| Tue 8-Sep-2020  <br> 9-12am | OWASP and SQL injection |[SQL injection](https://github.com/Lecture-CPE/424/raw/master/w9/w9_OWASP.pdf)  | **Clips** <br> - [Setup OpenVPN for Android](https://www.youtube.com/watch?v=6tMl_cXPcvc) <br> - [SQL injection](https://www.youtube.com/watch?v=PEmvqigfDjw) <br> - [Juice Shop : Score board](https://youtu.be/3XFSU34buTI) |
 | 10| Tue 15-Sep-2020  <br> 9-12am | - Anonymizer <br> - VulnBank <br> - Juice Shop #1 |* [Anonymizer](https://github.com/Lecture-CPE/424/raw/master/w10/w10_Anonymizer.pdf)<br> * [VulnBank](https://github.com/Lecture-CPE/424/raw/master/w10/w10_VulnBank.pdf) |**Clips**<br> - [Juice Shop #1](https://youtu.be/0a3GIhkusGg)<br> **Misc** <br> - [http://bank.dyn.npu.world](http://bank.dyn.npu.world) [[walkthrough](https://github.com/vulnbank/vulnbank/blob/master/VulnBank_Guide.pdf)] <br> - [A1](http://a1.dyn.npu.world) [[Walkghrough](https://git.npu.world/cpe/sqlinjection-training-app/-/blob/master/walkthrough.md)]  |
-| 15 | Nov-2020 | Final Exam  || Close book |
+| 11| Tue 22-Sep-2020  <br> 9-12am | Phishing |[Spoofing Webpage](https://github.com/Lecture-CPE/424/tree/master/w11)  | **Clips** <br> - [Phishing](https://youtu.be/TBCAyfJbnqs) |
+| 15 | 17-19 Oct-2020 | Final Exam  || **Register** <br> - [https://web2020.npu.world](https://web2020.npu.world) |
 
 # Upgrade policy
 
