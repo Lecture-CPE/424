@@ -41,4 +41,4 @@ This course is primarily designed for undergraduate students. Students become fa
 
 ## Resources
 
-* [กฏหมาย](https://www.etda.or.th/laws-sharing.html)
+* [กฏหมาย](https://www.etda.or.th/th/Our-Service/Capacity-Building/Law.aspx)
