@@ -28,8 +28,9 @@ This course is primarily designed for undergraduate students. Students become fa
 | 10| Tue 15-Sep-2020  <br> 9-12am | - Anonymizer <br> - VulnBank <br> - Juice Shop #1 |* [Anonymizer](https://github.com/Lecture-CPE/424/raw/master/w10/w10_Anonymizer.pdf)<br> * [VulnBank](https://github.com/Lecture-CPE/424/raw/master/w10/w10_VulnBank.pdf) |**Clips**<br> - [Juice Shop #1](https://youtu.be/0a3GIhkusGg)<br> **Misc** <br> - [http://bank.dyn.npu.world](http://bank.dyn.npu.world) [[walkthrough](https://github.com/vulnbank/vulnbank/blob/master/VulnBank_Guide.pdf)] <br> - [A1](http://a1.dyn.npu.world) [[Walkghrough](https://git.npu.world/cpe/sqlinjection-training-app/-/blob/master/walkthrough.md)]  |
 | 11| Tue 22-Sep-2020  <br> 9-12am | Phishing |[Spoofing Webpage](https://github.com/Lecture-CPE/424/tree/master/w11) <br> - [Slide](https://github.com/Lecture-CPE/424/raw/master/w11/w11_CreatePhishing.pdf)  | **Vulnerable Website**<br> - http://wordpress.dyn.npu.world <br> - http://magic.dyn.npu.world <br> - http://bank.dyn.npu.world <br> **Clips** <br> - [Phishing](https://youtu.be/TBCAyfJbnqs) |
 |12| Tue 6-Oct-2020 <br> 9-12am | **OWSAP : Challange:** <br> - Single star challenge <br> - Arbitrary File Write <br> - Forged Coupon  | **Slide** <br> - [Single star challenge](https://github.com/Lecture-CPE/424/raw/master/w12/w12_OWASP-All-1_Star.pdf) <br> - [Arbitrary_File_Write](https://github.com/Lecture-CPE/424/raw/master/w12/w12_OWASP-All-6_Star-Arbitrary_File_Write.pdf) <br> - [Forged_Coupon](https://github.com/Lecture-CPE/424/raw/master/w12/w12_OWASP-All-6_Star-Forged_Coupon.pdf) |**Clips**<br> - [โจทย์ดาวเดียว ☆](https://youtu.be/gILFnWVqdA8)  <br> - [Arbitrary file write](https://youtu.be/68JlVCDYpK0)|
-| 15 | 17-18 Oct-2020 9am-00am| Final Exam  || **Register** <br> - [https://web2020.npu.world](https://web2020.npu.world) |
-| 16| Tue 20-Oct-2020  <br> 9-12am | สรุปงาน NPU WEB2020  | |  |
+| 13| Fri 16-Oct-2020  <br> 7pm- |  **OWSAP : Challange:** <br> - [โจทย์สามดาว ☆☆☆]  ||**Clips** <br> |
+| 14 | Sat 17 - Sun18 Oct-2020 9am-00am| Final Exam  || **Register** <br> - [https://web2020.npu.world](https://web2020.npu.world) |
+| 15| Tue 20-Oct-2020  <br> 9-12am | สรุปงาน NPU WEB2020  | |  |
 
 # Upgrade policy
 
