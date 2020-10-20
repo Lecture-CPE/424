@@ -30,7 +30,7 @@ This course is primarily designed for undergraduate students. Students become fa
 |12| Tue 6-Oct-2020 <br> 9-12am | **OWSAP : Challange:** <br> - Single star challenge <br> - Arbitrary File Write <br> - Forged Coupon  | **Slide** <br> - [Single star challenge](https://github.com/Lecture-CPE/424/raw/master/w12/w12_OWASP-All-1_Star.pdf) <br> - [Arbitrary_File_Write](https://github.com/Lecture-CPE/424/raw/master/w12/w12_OWASP-All-6_Star-Arbitrary_File_Write.pdf) <br> - [Forged_Coupon](https://github.com/Lecture-CPE/424/raw/master/w12/w12_OWASP-All-6_Star-Forged_Coupon.pdf) |**Clips**<br> - [โจทย์ดาวเดียว ☆](https://youtu.be/gILFnWVqdA8)  <br> - [Arbitrary file write](https://youtu.be/68JlVCDYpK0)|
 | 13| Fri 16-Oct-2020  <br> 7pm- |  **OWSAP : Challange:** <br> - [โจทย์สามดาว ☆☆☆]  ||**Clips** <br> - [OWASP : Payback Time](https://www.youtube.com/watch?v=F-Im9o9amZQ)<br> - [OWASP : Admin Registration](https://youtu.be/gG9BAe-pBxA)|
 | 14 | Sat 17 - Sun18 Oct-2020 9am-00am| Final Exam  || **Register** <br> - [https://web2020.npu.world](https://web2020.npu.world) |
-| 15| Tue 20-Oct-2020  <br> 9-12am | สรุปงาน NPU WEB2020  | [WEB2020](https://github.com/Lecture-CPE/424/raw/master/w16/w16-CTF-final-summary.pdf) |  |
+| 15| Tue 20-Oct-2020  <br> 9-12am | สรุปงาน NPU WEB2020  | [WEB2020 Summary](https://github.com/Lecture-CPE/424/raw/master/w16/w16-CTF-final-summary.pdf) |  |
 
 # Upgrade policy
 
